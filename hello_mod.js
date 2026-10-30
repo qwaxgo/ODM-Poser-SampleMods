@@ -1,4 +1,5 @@
-// An example mod for ODM Poser (this repository is cloned into the editor's mods/).
+// An example mod for ODM Poser (立体人形装置): add it in the MOD panel (by URL or from a file), or
+// clone this repository into a mods/ folder.
 // It adds a category with a wand and a halo, a solid kind, an aura kind and an aura part, a hand
 // shape, a built-in pose, English words, and a panel that turns on a plumb line drawn from the head.
 // The API: docs/MODDING.md.
