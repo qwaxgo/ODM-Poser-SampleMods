@@ -1,6 +1,6 @@
-# SymbolicPoseEditor-SampleMods
+# ODM-Poser-SampleMods
 
-Sample mods for the Symbolic Pose Editor (ComfyUI-SymbolicPoseEditor). Private.
+Sample mods for ODM Poser (ODM-Poser). Private.
 
 | file | adds |
 |------|------|
@@ -11,8 +11,8 @@ Sample mods for the Symbolic Pose Editor (ComfyUI-SymbolicPoseEditor). Private.
 Clone this repository into the editor's `mods/` folder; every `*.js` at its top level loads as a mod.
 
 ```
-cd ComfyUI/custom_nodes/ComfyUI-SymbolicPoseEditor/mods
-git clone git@github.com:qwaxgo/SymbolicPoseEditor-SampleMods.git
+cd ComfyUI/custom_nodes/ODM-Poser/mods
+git clone git@github.com:qwaxgo/ODM-Poser-SampleMods.git
 ```
 
 - Inside ComfyUI: reload the editor (after updating the node itself, restart ComfyUI once).
@@ -25,6 +25,6 @@ How to write a mod: `docs/MODDING.md` / `docs/MODDING-JA.md` in the editor's rep
 
 ## 日本語
 
-記号ポーズエディタのサンプル MOD（非公開）。エディタの `mods/` フォルダにこのリポジトリを clone すると、
+立体人形装置のサンプル MOD（非公開）。エディタの `mods/` フォルダにこのリポジトリを clone すると、
 直下の `*.js` が MOD として読み込まれます。ComfyUI の中ならエディタを開き直すだけ、ComfyUI なしで開くときは
 エディタのフォルダで `python tools/make_mods_list.py` を実行してから開き直します。
